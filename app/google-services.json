@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766488398785",
+    "project_id": "meldcalculator",
+    "storage_bucket": "meldcalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766488398785:android:13519773e81f1aeb2bbd40",
+        "android_client_info": {
+          "package_name": "com.example.meldcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766488398785-cuf0k2soqv8vvsg0gcnbha4ga18kq8pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNjtoyFiVvX-Ce0czFs-raWR-ROmJDx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766488398785-cuf0k2soqv8vvsg0gcnbha4ga18kq8pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

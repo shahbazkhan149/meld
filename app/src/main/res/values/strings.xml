@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MELD Calculator</string>
+    <string name="meld_score">MELD Score</string>
+</resources>
